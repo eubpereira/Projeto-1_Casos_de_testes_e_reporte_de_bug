@@ -1,6 +1,6 @@
-# Título do projeto
+# Casos de testes e reporte de bugs
 
-Casos de testes e reporte de bug
+Identificação e criação de casos de testes para reporte de bug posterior utilizando o Jira.
 
 ## ⚙️ Executando os testes
 
